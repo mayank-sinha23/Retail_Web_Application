@@ -2,6 +2,7 @@
 Retail Web application assignment
 
 Backend -  Python Flask
+
 Frontend - HTML ( Used bootstrap CDN from http://bootstrapcdn.com)
 
 About the web application :
